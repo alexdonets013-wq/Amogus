@@ -1,0 +1,21 @@
+.div1 {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+.vid1 {
+   border: 1px solid black;
+}
+
+.vid2 {
+    border: 1px solid black;
+
+}
+.vid3 {
+    border: 1px solid black;
+}
+
+
