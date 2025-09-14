@@ -1,21 +1,42 @@
+html {
+    font-family: "Inter", sans-serif;
+}
+
 .div1 {
-    border: 1px solid black;
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    height: 84px;
+}
 
+.a {
+    color: black;
+    text-decoration: none;
+} 
+
+.a-h {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.button1 {
+    color: green;
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+    
+}
+
+.button2 {
+    color: azure;
+    background-color: green;
+    border-radius: 5px;
+    width: 91px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
 }
 
 
-.vid1 {
-   border: 1px solid black;
-}
-
-.vid2 {
-    border: 1px solid black;
-
-}
-.vid3 {
-    border: 1px solid black;
-}
-
-
+.text
