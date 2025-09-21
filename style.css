@@ -39,4 +39,70 @@ html {
 }
 
 
-.text
+.text {
+    font-size: 50px;
+     font-weight: bold
+}
+
+.text-2 {
+    color: green;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.bigbob {
+
+    
+}
+
+.minibobik {
+    color: grey;
+    margin-top: 20px;
+}
+
+.register {
+    color: white;
+    background-color: green;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    width: 128px;
+    height: 52px;
+    margin-top: 20px;
+}
+
+.bigbigbob {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 80vh;
+}
+
+
+.green {
+    background-color: green;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    margin-top: 650px;
+  margin-left: -700px;
+}
+
+.grey1 {
+    background-color: grey;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+   margin-top: -10px;
+    margin-left: -685px;
+}
+
+.grey2 {
+    background-color: grey;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+   margin-top: -10px;
+    margin-left: -670px;
+}
+
